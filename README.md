@@ -11,6 +11,12 @@ tokens = $0.05). An `unlimited` key shows a single `Unlimited` row.
 
 Requires OpenChamber 2.6.0 or newer. Built with `@openchamber/sdk` 2.8.x.
 
+## Screenshots
+
+![AnyModel card in Settings → Usage](docs/screenshots/usage.png)
+
+![AnyModel in the work-status panel](docs/screenshots/work-status.png)
+
 ## Install
 
 ### From GitHub (auto-updates)
