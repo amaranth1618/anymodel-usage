@@ -1,5 +1,7 @@
 # AnyModel Usage
 
+English | [Русский](README.ru.md)
+
 OpenChamber extension that adds AnyModel's prepaid balance to the Usage page,
 the header, Work Status and the desktop tray — as a usage provider (`quota`
 service role) next to the built-in providers.
